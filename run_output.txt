@@ -1,0 +1,28 @@
+=== KIC 6634976 COMPLETE PIPELINE SUMMARY ===
+Kepler Q1-Q17: 17 FITS files | Raw=69302 | Valid=55909 | Baseline=1459.49 d | Median RMS=192.43 ppm | Max Dip=0.1252%
+NVSS (1.4 GHz) within 5": 0 | within 60": 0 | Nearest: {'nvss_id': '195518+415628', 'ra': 298.82899999999995, 'dec': 41.94136111111111, 's1_4_mjy': 3.8, 'e_s1_4_mjy': 1, 'sep_arcsec': 319.66}
+VLASS (3.0 GHz) within 5": 0 | within 60": 0 | Nearest: {'comp_name': 'VLASS1QLCIR J195524.12+420133.6', 'ra': 298.85050508, 'dec': 42.02601099, 'ftot_mjy': 4.083, 'e_ftot_mjy': 0.211, 'fpeak_mjy': 4354, 'e_fpeak_mjy': 126, 'sep_arcsec': 85.14}
+IRSA Dust Extinction: {"E(B-V) Reddening": {"refPixelValueSandF": "0.2871 (mag)", "refPixelValueSFD": "0.3338 (mag)", "refCoordinate": "298.819090 42.029850 equ J2000", "meanValueSandF": "0.2833 (mag)", "meanValueSFD": "0.3294 (mag)", "stdSandF": "0.0139 (mag)", "stdSFD": "0.0162 (mag)", "maxValueSandF": "0.3073 (mag)", "maxValueSFD": "0.3574 (mag)", "minValueSandF": "0.2585 (mag)", "minValueSFD": "0.3005 (mag)"}, "100 Micron Emission": {"refPixelValue": "21.3249 (MJy/sr)", "refCoordinate": "298.819090 42.029850 equ J2000", "meanValue": "21.0427 (MJy/sr)", "std": "1.0972 (MJy/sr)", "maxValue": "22.8957 (MJy/sr)", "minValue": "19.3782 (MJy/sr)"}, "Dust Temperature": {"refPixelValue": "18.5543 (K)", "refCoordinate": "298.819090 42.029850 equ J2000", "meanValue": "18.5470 (K)", "std": "0.0229 (K)", "maxValue": "18.5930 (K)", "minValue": "18.4914 (K)"}}
+AllWISE 60" cone count: 22 sources
+  J195516.58+420147.5 | sep= 0.13" | W1=12.335 W2=12.388 W3=10.133 (snr3=23.6, chi2W3=1.701) W4=7.476 (snr4=10.4, chi2W4=1.164) qph=AAAA
+  J195515.64+420159.5 | sep=15.98" | W1=15.408 W2=15.906 W3=10.376 (snr3=20.1, chi2W3=1.575) W4=7.96 (snr4=6.4, chi2W4=0.959) qph=ABAB
+  J195516.36+420211.7 | sep=24.36" | W1=15.038 W2=15.208 W3=10.986 (snr3=13.3, chi2W3=1.36) W4=8.534 (snr4=3.7, chi2W4=1.147) qph=AAAB
+  J195518.94+420146.7 | sep=26.31" | W1=11.656 W2=11.691 W3=10.344 (snr3=20.6, chi2W3=1.177) W4=7.882 (snr4=7, chi2W4=1.027) qph=AAAB
+  J195516.93+420119.6 | sep=28.06" | W1=15.297 W2=15.735 W3=12.595 (snr3=1.1, chi2W3=0.9536) W4=9.131 (snr4=2.3, chi2W4=0.986) qph=AAUC
+  J195513.88+420155.8 | sep=31.19" | W1=15.498 W2=15.842 W3=12.516 (snr3=1, chi2W3=0.8172) W4=9.166 (snr4=0.2, chi2W4=0.867) qph=ABUU
+  J195518.29+420213.1 | sep=32.02" | W1=14.724 W2=14.844 W3=11.132 (snr3=11.5, chi2W3=1.069) W4=9.208 (snr4=2.2, chi2W4=0.9803) qph=AAAC
+  J195517.04+420219.8 | sep=32.77" | W1=15.15 W2=15.532 W3=12.283 (snr3=4.1, chi2W3=0.9521) W4=9.391 (snr4=-0.9, chi2W4=1.084) qph=AABU
+  J195518.99+420127.9 | sep=33.21" | W1=15.567 W2=15.738 W3=12.541 (snr3=1.5, chi2W3=1.128) W4=8.602 (snr4=1.9, chi2W4=1.105) qph=ABUU
+  J195513.57+420139.7 | sep=34.36" | W1=13.041 W2=13.159 W3=12.23 (snr3=1.7, chi2W3=0.8919) W4=8.819 (snr4=1.5, chi2W4=0.9722) qph=AAUU
+  J195514.50+420216.8 | sep=37.44" | W1=15.446 W2=15.547 W3=13.086 (snr3=-2.7, chi2W3=0.9162) W4=9.119 (snr4=-0.3, chi2W4=0.9723) qph=AAUU
+  J195519.69+420209.4 | sep=41.09" | W1=16.779 W2=17.48 W3=10.761 (snr3=15.5, chi2W3=1.246) W4=8.937 (snr4=2.9, chi2W4=1.085) qph=BUAC
+  J195520.09+420133.7 | sep=41.46" | W1=18.028 W2=17.516 W3=11.412 (snr3=9.7, chi2W3=1.218) W4=9.023 (snr4=2.5, chi2W4=0.8835) qph=BUBC
+  J195517.15+420234.2 | sep=47.23" | W1=13.916 W2=14.097 W3=13.134 (snr3=-7, chi2W3=0.9588) W4=9.487 (snr4=-3.1, chi2W4=0.9697) qph=AAUU
+  J195518.31+420103.4 | sep=48.07" | W1=12.514 W2=12.67 W3=13.154 (snr3=-2.7, chi2W3=1.024) W4=9.151 (snr4=-2.9, chi2W4=0.9152) qph=AAUU
+  J195514.39+420103.3 | sep=50.39" | W1=15.335 W2=15.851 W3=12.821 (snr3=-1.5, chi2W3=0.8835) W4=9.172 (snr4=-0.1, chi2W4=1.002) qph=ABUU
+  J195521.12+420159.2 | sep=51.94" | W1=11.012 W2=11.081 W3=10.464 (snr3=20.6, chi2W3=1.073) W4=8.388 (snr4=4.7, chi2W4=1.02) qph=AAAB
+  J195512.22+420126.2 | sep=52.93" | W1=12.097 W2=12.151 W3=12.219 (snr3=3.6, chi2W3=0.9011) W4=9.304 (snr4=-0.8, chi2W4=0.9558) qph=AABU
+  J195520.78+420214.8 | sep=54.26" | W1=15.684 W2=15.33 W3=10.873 (snr3=14.4, chi2W3=1.268) W4=8.24 (snr4=4.8, chi2W4=1.02) qph=AAAB
+  J195521.05+420123.9 | sep=55.08" | W1=14.183 W2=14.499 W3=13.183 (snr3=-1.6, chi2W3=1.059) W4=9.2 (snr4=-0.6, chi2W4=0.9317) qph=AAUU
+  J195516.12+420244.8 | sep=57.66" | W1=15.508 W2=15.52 W3=13.188 (snr3=-8, chi2W3=0.9431) W4=9.313 (snr4=-2.8, chi2W4=0.912) qph=AAUU
+  J195511.35+420154.4 | sep=58.61" | W1=15.268 W2=16.022 W3=12.912 (snr3=-4.5, chi2W3=1.032) W4=9.102 (snr4=-1.5, chi2W4=0.9307) qph=ABUU
